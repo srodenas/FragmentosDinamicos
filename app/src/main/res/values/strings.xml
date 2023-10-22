@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">NavigationComponentTutorial</string>
     <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hola Gente de PMDM, soy Santi</string>
-    <string name="hello_blank_fragment2">También desde otro Fragmento</string>
+    <string name="hello_blank_fragment">Soy Santi</string>
+    <string name="hello_blank_fragment2">Estamos en PMDM</string>
 
 </resources>
